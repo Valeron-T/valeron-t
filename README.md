@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![Valeron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valeron-T&count_private=true&theme=great-gatsby)
--
+|
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valeron-T&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 -
 [![@valeron22's Holopin board](https://holopin.io/api/user/board?user=valeron22)](https://holopin.io/@valeron22)
