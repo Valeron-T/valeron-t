@@ -1,5 +1,5 @@
 # 💫 About Me
-👋 Hi, I'm Valeron.<br>🎓 I'm pursuing Bsc I.T. at St.Xavier's College, Mumbai.<br>🔭 I’m currently working on building a portfolio website.<br>👯 I’m looking to collaborate and contribute to open source projects.<br>👨‍💻 Freelancing in Python scripting and data scraping.<br>🌱 I’m currently learning React.<br>💬 Feel free to ask me anything. I'll be glad to help.<br>📫 I'm reachable via [Email](mailto:valerontoscano@gmail.com) and [LinkedIn](https://linkedin.com/in/valeron-toscano/)
+👋 Hi, I'm Valeron.<br>🎓 I'm pursuing Bsc I.T. at St.Xavier's College, Mumbai.<br>🔭 I’m currently working on building a portfolio website.<br>👯 I’m looking to collaborate and contribute to open source projects.<br>👨‍💻 Freelancing in Python scripting and data scraping.<br>🌱 I’m currently learning cloud technologies & administration.<br>💬 Feel free to ask me anything. I'll be glad to help.<br>📫 I'm reachable via [Email](mailto:valerontoscano@gmail.com) and [LinkedIn](https://linkedin.com/in/valeron-toscano/)
 
 
 ## 🌐 Socials:
